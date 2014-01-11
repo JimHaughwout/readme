@@ -1,6 +1,6 @@
 README
 ======
 
-This is the GitHub account I used while working at Cmed Group. It has now public repositories.
+This is the GitHub account I use for work in enterprise software.
 
-At Cmed we used GitHub primarily for our iOS apps development.
+The only public repos and commits are related either to open sourcing of APIs or contributions to other open repos
